@@ -17,3 +17,7 @@ Die Idee von meinem Fotoprojekt war, dass ich durch das Verlaufen von Licht im S
 ![Bild von mehreren Gebäuden mit Gehweg in der Mitte](fotoserie1.jpg)
 
 Ich bin gegen 10 Uhr Abends durch mein Quartier gelaufen. Gegen diese Uhrzeit hatten die meisten Haushalte ihre Aussenbeleuchtung eingeschaltet. Das waren die perfekten Umstände um meine Idee umzusetzen. Die Idee, dass ich die Kamera während des Auslösens der Fotos noch bewegen kann, kam mir spontan in den Sinn.
+
+![Bild von Wohnhäuser mit Beleuchtung im Hintergrund](fotoserie4.jpg)
+
+Ein Nachteil war natürlich, dass durch die Bewegung, die Bilder an manchen Stellen etwas unscharf wurden. Es gefällt mir jedoch, dass durch die Verschwommenheit, kaum noch erkennbar ist was das Licht eigentlich ist. Auf dem Bild oben erkennt man gar nicht mehr dass es Beleuchtungen von Häuser im Hintergrund sind. Mehr sieht es nur noch nach farbigen Lichtstrichen aus.
