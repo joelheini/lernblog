@@ -4,8 +4,8 @@ date = "2020-05-05"
 draft = false
 pinned = false
 tags = []
-image = "fotoserie4.jpg"
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
-footnotes = "Ganz unten an der Seite können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
+image = "fotoserie3.jpg"
+description = ""
+footnotes = ""
 +++
-wer
+![Die Idee von meinem Fotoprojekt war, dass ich die Kamera so einstelle, dass ich einen möglichst hohen Lichtwert mit einem starken Kontrast erhalte. Damit das ganze Bild noch etwas abstrakter wirkt, habe ich eingestellt, dass das Bild verzögert geschossen werden soll. Durch eine kleine seitliche Bewegung mit der Kamera, verlaufen die Lichter auf dem Bild.](fotoserie2.jpg)
