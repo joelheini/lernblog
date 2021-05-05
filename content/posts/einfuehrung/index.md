@@ -20,4 +20,4 @@ Ich bin gegen 10 Uhr Abends durch mein Quartier gelaufen. Gegen diese Uhrzeit ha
 
 ![Bild von Wohnhäuser mit Beleuchtung im Hintergrund](fotoserie4.jpg)
 
-Ein Nachteil war natürlich, dass durch die Bewegung, die Bilder an manchen Stellen etwas unscharf wurden. Es gefällt mir jedoch, dass durch die Verschwommenheit, kaum noch erkennbar ist was das Licht eigentlich ist. Auf dem Bild oben erkennt man gar nicht mehr dass es Beleuchtungen von Häuser im Hintergrund sind. Mehr sieht es nur noch nach farbigen Lichtstrichen aus.
+Ein Nachteil war natürlich, dass durch die Bewegung, die Bilder an manchen Stellen etwas unscharf wurden. Es gefällt mir jedoch, dass durch die Verschwommenheit, kaum noch erkennbar ist was das Licht eigentlich ist. Auf dem Bild oben erkennt man gar nicht mehr dass es Beleuchtungen von Häuser im Hintergrund sind. Mehr sieht es nur noch nach farbigen Lichtstrichen aus. Manche dieser Bilder sehen mehr nach einem abstrakten Gemälde aus.
